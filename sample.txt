@@ -5,3 +5,4 @@ Please add your sugestions below.
 - Suggestion 1: change title
 - Suggestion 2: change colors
 - Suggestion 3: make website more deployable
+- Suggestion 4: I don't know, this doesn't exactly fit the example, but oh well.
